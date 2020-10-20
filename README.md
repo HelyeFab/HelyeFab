@@ -4,6 +4,9 @@ I'm Emmanuel a passionate human being, FrontEnd Developer, Digital Artist and oh
 You can check out my twitter at https://twitter.com/CodeLeviosa
 
 
+[![HelyeFab’s github stats](https://github-readme-stats.vercel.app/api?username=helyefab)](https://github.com/helyefab/github-readme-stats)
+
+
 <!--
 **HelyeFab/HelyeFab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
