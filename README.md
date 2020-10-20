@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Emmanuel a passionate human being, FrontEnd Developer, Digital Artist and oh! I like to think of myself as  someone who never gives up!!
+You can check out my twitter at https://twitter.com/CodeLeviosa
+
+
 <!--
 **HelyeFab/HelyeFab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
