@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/codeleviosa" target="blank"><img src="https://img.shields.io/twitter/follow/codeleviosa?logo=twitter&style=for-the-badge" alt="codeleviosa" /></a> </p>
 
-- 🌱 I’m currently learning **Ract and Node.js**
+- 🌱 In love with **Ract and Node.js**
 
 - 📫 How to reach me **emmanuelfabiani23@gmail.com**
 
